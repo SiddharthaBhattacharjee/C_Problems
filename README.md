@@ -3,3 +3,6 @@ Solving the C challenge problems from our college competitive programming websit
 
 ### Day1 : 
 Problems solved = 7, problems attempted = 10, progress = level-1 7%, Rank = 148.<br>
+
+### Day2 :
+problrms solved = 19, problems attempted = 20, progress = (level-1 11% : level-2 8%), Rank = 144<br>
